@@ -1,0 +1,6 @@
+SERVER ADDED TO THE NETWORK 
+
+CODE:
+PYTHON -m http.server 8000
+
+press ctrl+c to quit or exit the server 
